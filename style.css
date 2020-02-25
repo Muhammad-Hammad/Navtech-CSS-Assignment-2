@@ -1,0 +1,16 @@
+td,th{
+    border: 1px black solid;
+    padding: 5px;
+    font-size: 25px;
+}
+table{
+    border: #aaaaaa 20px dashed;
+    border-radius: 20px;
+    box-shadow: 5px 10px #888888;
+}
+.h1{
+    font: 50px "Times New Roman";
+}
+th{
+    font: 35px bold;
+}
